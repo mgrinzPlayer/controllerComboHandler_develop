@@ -240,7 +240,7 @@ end
 
 controllerComboHandler.registeredCombos={}
 
-controllerComboHandler.addNewCombo('cheat5',function () print('cheat1') end,"A,Y,X,B")
-controllerComboHandler.addNewCombo('cheat6',function () print('cheat2') end,"DD,DU,DL,DR")
+controllerComboHandler.addNewCombo('cheat1',function () print('cheat1') end,"A,Y,X,B")
+controllerComboHandler.addNewCombo('cheat2',function () print('cheat2') end,"DD,DU,DL,DR")
 
 controllerComboHandler.startListening()
